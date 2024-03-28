@@ -1,0 +1,17 @@
+{
+  "name": "mtcli-calculator-cli",
+  "version": "1.0.1",
+  "description": "Calculator cli ",
+  "main": "index.js",
+  "type" : "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
